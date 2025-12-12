@@ -13,7 +13,7 @@ dependencies {
     implementation 'com.admost.sdk:amr:3.2.4'
     implementation 'com.google.android.gms:play-services-base:18.6.0'
     implementation 'com.admost.sdk:admost-adapter:1.1.9.a49'
-    implementation 'com.google.android.gms:play-services-ads:24.2.0'
+    implementation 'com.google.android.gms:play-services-ads:24.9.0'
     implementation 'com.admost.sdk:admob-adapter:24.0.0.1.a49'
     implementation 'com.admost.sdk:applovin-adapter:13.5.0.a49'
     implementation 'com.admost.sdk:ironsource-adapter:9.0.0.a49'
