@@ -1,0 +1,4 @@
+# Only track skills/ in version control; everything else under .claude/ is local.
+/*
+!/.gitignore
+!/skills/
