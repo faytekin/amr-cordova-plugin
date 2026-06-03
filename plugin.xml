@@ -751,7 +751,7 @@
                 <pod name="AMRAdapterAdmost" spec="~> 1.6" />
                 <pod name="AMRAdapterApplovin" spec="~> 13.6" />
                 <pod name="AMRAdapterFacebook" spec="~> 6.21" />
-                <pod name="AMRAdapterUnity" spec="~> 4.17" />
+                <pod name="AMRAdapterUnity" spec="~> 4.17.1" />
             </pods>
         </podspec>
     </platform>
