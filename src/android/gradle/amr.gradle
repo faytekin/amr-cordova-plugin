@@ -23,6 +23,8 @@ dependencies {
     implementation 'com.admost.sdk:facebook-adapter:6.21.0.a49'
     implementation 'androidx.annotation:annotation:1.10.0'
     implementation 'com.admost.sdk:unity-adapter:4.17.0.a49'
+    // Unity Ads 4.17 uses APIs that are missing from Facebook SDK's transitive 1.0 dependency.
+    implementation 'com.android.installreferrer:installreferrer:2.2'
 }
 
 android {
